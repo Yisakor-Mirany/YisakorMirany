@@ -1,4 +1,4 @@
-## Hey 👋, I'm Yisakor Mirany  
+## Hey 👋, I'm Yisakor Mirany 
   
 
 <a href="https://github.com/Yisakor-Mirany" target="_blank">
