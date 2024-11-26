@@ -75,6 +75,3 @@ I am originally from Ethiopia, and I have always been passionate about technolog
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
