@@ -29,26 +29,20 @@
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
 ### Glad to see you here!  
-I am originally from Ethiopia, and I have always been passionate about technology and its potential to drive innovation and change. I graduated with an Associate Degree from Seattle Central College, where I gained a strong foundation in various fields. Currently, I am pursuing a Bachelor's Degree in Software Development, further expanding my knowledge and skills in programming, system design, and software engineering. Throughout my academic journey, I have developed a deep understanding of both the theoretical and practical aspects of software development, and I am excited to apply these insights to real-world projects. I am committed to continuous learning and eager to contribute meaningfully to the technology sector.  
-  
-
+I am originally from Ethiopia and passionate about technology's role in driving innovation. I hold an Associate Degree from Seattle Central College and am currently pursuing a Bachelor's in Software Development. My studies have strengthened my skills in programming, system design, and software engineering. I am eager to apply my knowledge to real-world projects and contribute meaningfully to the tech industry.
 <br/>  
-
-
 ## Skills
 
 
-- **Programming Language**: Python, Java
-- **Tools**: VScode, Git
+- **Programming Language**: Python, Java, Mulesoft
+- **Tools**: VScode, Git, AnypointStudio, Postman
 
 ## Learning Goals
 
 - C++, C#
 - Frontend Development
+- ESB Integration Using Mulesoft
   
 </td><td valign="top" width="50%">
 
