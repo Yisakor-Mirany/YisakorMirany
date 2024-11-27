@@ -39,15 +39,17 @@ I am originally from Ethiopia, and I have always been passionate about technolog
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## Skills
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+
+- **Programming Language**: Python, Java
+- **Tools**: VScode, Git
+
+## Learning Goals
+
+- C++, C#
+- Frontend Development
   
-
-- 🌱 I’m currently learning C++, and C#  
-
-
 </td><td valign="top" width="50%">
 
 
